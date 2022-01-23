@@ -38,6 +38,8 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
+---
+
 <img align="left" alt="Jason's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jason-0118&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/Jason-0118
