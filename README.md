@@ -40,7 +40,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason-0118)](https://github.com/anuraghazra/github-readme-stats)
+[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason-0118)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://github.com/Jason-0118
 [linkedin]: google.com
 
