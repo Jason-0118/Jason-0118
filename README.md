@@ -19,8 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-[<img align="left" alt="https://github.com/Jason-0118" width="22px" src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jason | Github" width="22px" src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png" />][website]
+[<img align="left" alt="Jason | LinkedIn" width="22px" src="https://pngset.com/images/linkedin-icon-white-text-logo-symbol-trademark-transparent-png-851740.png" />][linkedin]
 
 <br />
 
