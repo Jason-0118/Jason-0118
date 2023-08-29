@@ -3,16 +3,9 @@ Jason-0118/Jason-0118 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there, I'm Xin Zhang (Jason)  👋 
+### Hi there, I'm Xin Zhang (Jason)  👋 I'm a current junior student at Oregon State University and major in computer science.
 
-## I'm a current junior student at Oregon State University and major in computer science.
 
-### Connect with me:
-
-[<img align="left" alt="Jason | Github" width="22px" src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png" />][website]
-[<img align="left" alt="Jason | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-5-xxl.png" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
