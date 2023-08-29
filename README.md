@@ -7,10 +7,6 @@ You can click the Preview link to take a look at your changes.
 
 ## I'm a current junior student at Oregon State University and major in computer science.
 
-- 🌱 I’m currently learning ...
-- 🥅 2022 Goals: Looking for a front-end or back-end intern
-- ⚡ others: Love work out, outside activities...
-
 ### Connect with me:
 
 [<img align="left" alt="Jason | Github" width="22px" src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png" />][website]
